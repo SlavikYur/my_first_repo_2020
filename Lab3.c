@@ -31,5 +31,7 @@ int main()
 
     happiness(number, &k, &i);
 
+    cout << "Hello";	
+
     return 0;
 }
